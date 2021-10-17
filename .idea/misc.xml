@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/File Codingan/prak2_1918095_NaraldaVieriA/app/src/main/res/layout/activity_main.xml" value="0.14719202898550723" />
+        <entry key="..\:/File Codingan/prak2_1918095_NaraldaVieriA/app/src/main/res/layout/fragment1.xml" value="0.17346014492753623" />
+        <entry key="..\:/File Codingan/prak2_1918095_NaraldaVieriA/app/src/main/res/layout/fragment2.xml" value="0.17346014492753623" />
+        <entry key="..\:/File Codingan/prak2_1918095_NaraldaVieriA/app/src/main/res/layout/fragment3.xml" value="0.17346014492753623" />
+        <entry key="..\:/File Codingan/prak2_1918095_NaraldaVieriA/app/src/main/res/layout/fragment4.xml" value="0.14719202898550723" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
